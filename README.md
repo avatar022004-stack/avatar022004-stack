@@ -2,18 +2,24 @@
 <h3 align="center">🚀 Engineering Student | Future Software Engineer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;DSA+Learner+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%92%BB;Future+Full+Stack+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;DSA+Learner+%F0%9F%A7%A0;Frontend+Developer+%F0%9F%92%BB;Future+Full+Stack+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 - 🎓 Engineering Student  
-- 💻 Passionate about Technology & Coding  
+- 💻 Passionate about Coding & Technology  
 - 🌱 Currently Learning **DSA, Web Development & Problem Solving**  
 - 🚀 Goal: Become a Top Software Engineer  
-- ⚡ Interested in Building Real Projects  
+- ⚡ Love Building Real Projects  
 - 📍 Based in India  
 
 ---
@@ -55,7 +61,7 @@
 ## 🏆 Current Focus
 
 - 🔥 Mastering DSA  
-- 🚀 Building Strong Projects  
+- 🚀 Building Real Projects  
 - 💻 Improving Frontend Skills  
 - 🧠 Becoming Industry Ready  
 
@@ -63,15 +69,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<p align="center">
+<a href="https://github.com/YOURUSERNAME" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://linkedin.com/in/YOURUSERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+
+<a href="https://linkedin.com/in/ashutosh-mishra-89b63a378" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUREMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+
+<a href="https://instagram.com/ashutoshmishra6114" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://yourportfolio.com" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=firefox"/>
 </a>
 </p>
 
@@ -79,8 +91,12 @@
 
 ## 💡 Quote
 
-> "Discipline + Consistency = Success"
+> "Discipline + Consistency + Hard Work = Success"
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 <p align="center">✨ Thanks for visiting my profile ✨</p>
